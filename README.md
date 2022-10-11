@@ -1,1 +1,2 @@
-# anomaly_detection_sol_acc
+# Real-time IoT robust anomaly detection framework
+
